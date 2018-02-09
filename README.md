@@ -12,7 +12,7 @@ It's an alternative to using `Object.assign()` or `_.extend()` to build an objec
 
 ## Usage
 
-```
+```js
 var get_value = require('key-fallback');
 
 var defaults = {
