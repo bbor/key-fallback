@@ -1,0 +1,26 @@
+{
+  "name": "key-fallback",
+  "version": "1.0.0",
+  "description": "Gets a value from the first object or array that has the key you provide.",
+  "main": "./lib/key-fallback.js",
+  "scripts": {
+    "test": "node ./test/test-key-fallback.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbor/key-fallback.git"
+  },
+  "keywords": [
+    "default",
+    "value",
+    "object",
+    "assign",
+    "config"
+  ],
+  "author": "Robb Surridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbor/key-fallback/issues"
+  },
+  "homepage": "https://github.com/bbor/key-fallback#readme"
+}
